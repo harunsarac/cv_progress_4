@@ -336,7 +336,7 @@ require('login.php');
                     <li><img src="icons/call-answer.png" height="16px" width="16px"> Phone: <strong>+38762442443</strong></li>
                     <li><img src="icons/mail.png" height="16px" width="16px"> Email: <strong>
                         <a href=”mailto:haruns97hs@gmail.com” >Personal Email</a> /
-                        <a href=”mailto:160302020@student.ius.edu.ba” >Business Email</a>
+                        <a href=”mailto:160302020@student.ius.edu.ba” >Business Emai</a>
                     </strong></li>
                 </ul>
                 <br>
