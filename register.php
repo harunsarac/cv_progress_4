@@ -11,9 +11,9 @@ if (isset($_POST['username']) && isset($_POST['password'])){
 
     if($result){
         session_start();
-        require_once "index.php";
+        require_once "index.html";
     }else{
         echo "User Registration Failed";
-        echo "<br><a href='index.php'>Back</a>";
+        echo "<br><a href='index.html'>Back</a>";
     }
 }
